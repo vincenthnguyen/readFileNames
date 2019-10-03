@@ -1,0 +1,6 @@
+__pycache__
+filenames.py
+filenames.spec
+filenames.txt
+filenames.zip
+lol.txt

@@ -1,0 +1,15 @@
+$RECYCLE.BIN
+Battle.net
+Discord
+Documents
+Epic Games
+MSOCache
+Majikoi
+MangaGamer
+Nexon
+Nexus Mod Manager
+Origin
+Recovery
+Riot Games
+Steam
+System Volume Information
